@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/descargar-musica-mp3",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a descargar-musica-mp3",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/descargar-musica-mp3.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/es/descargar-musica-mp3/"
+    },
+    "homepage": "https://transpero.net/es/descargar-musica-mp3/"
+}
